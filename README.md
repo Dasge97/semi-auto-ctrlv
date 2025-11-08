@@ -22,9 +22,7 @@ Una solución ligera, sin dependencias externas y totalmente portable.
 
 ## 🖼️ Vista previa
 
-![SmartInjector preview](https://github.com/TU_USUARIO/semi-auto-ctrlv/assets/preview_smartinjector.png)
-
-> *(Añade una captura real o un GIF corto mostrando cómo prepara el texto y lo inyecta tras el clic derecho.)*
+???
 
 ---
 
