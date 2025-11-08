@@ -22,7 +22,7 @@ Una solución ligera, sin dependencias externas y totalmente portable.
 
 ## 🖼️ Vista previa
 
-???
+![SmartInjector preview](assets/preview.png)
 
 ---
 
