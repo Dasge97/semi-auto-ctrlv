@@ -41,7 +41,7 @@ Una solución ligera, sin dependencias externas y totalmente portable.
 
 ## 💾 Descargar versión compilada
 
-[![Descargar .EXE](https://img.shields.io/badge/⬇️%20Descargar%20SmartInjector.exe-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/TU_USUARIO/semi-auto-ctrlv/releases/latest/download/SmartInjector.exe)
+[![Descargar .EXE](https://img.shields.io/badge/⬇️%20Descargar%20SmartInjector.exe-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Dasge97/semi-auto-ctrlv/releases/download/v1.6.2/smartinjector.exe)
 
 > No requiere instalación.  
 > Ejecuta el `.exe`, escribe o pega tu texto y haz clic derecho donde quieras inyectarlo.
